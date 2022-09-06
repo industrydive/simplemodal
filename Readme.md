@@ -3,8 +3,6 @@
 
 * [Documentation](http://www.ericmmartin.com/projects/simplemodal/)
 * [Demos](http://www.ericmmartin.com/projects/simplemodal-demos/)
-* [Downloads](http://code.google.com/p/simplemodal/downloads/list)
-
 
 Building SimpleModal
 --------------------
@@ -16,7 +14,8 @@ In the main directory of the distribution (the one that this file is in), type t
     ant
 
 The standard, uncompressed, SimpleModal code.  
-Makes: `./dist/jquery.simplemodal.VERSION.js`
+Makes: `./dist/jquery.simplemodal.divefork.js`
+This will also output a minified version.
 
     ant full
 
