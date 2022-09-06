@@ -1,31 +1,9 @@
-> **NOTICE**
- 
-> I am no longer able to actively support or maintain SimpleModal. If you would like to become a contributor, drop me a line. Otherwise, I will be removing this project in the near future.
-
-
-[SimpleModal](http://simplemodal.com/) - A modal dialog framework for jQuery
+[SimpleModal]() - A private industrydive fork of @ericmmartin's modal dialog framework for jQuery
 ================================
 
 * [Documentation](http://www.ericmmartin.com/projects/simplemodal/)
 * [Demos](http://www.ericmmartin.com/projects/simplemodal-demos/)
 * [Downloads](http://code.google.com/p/simplemodal/downloads/list)
-
-Questions?
---------
-For questions, please post them on [stackoverflow](http://stackoverflow.com/) and tag the question with "simplemodal".
-
-For issues or feature requests, please enter them on the [issues](https://github.com/ericmmartin/simplemodal/issues) page. 
-
-
-Twitter
--------
-* [@ericmmartin](http://twitter.com/ericmmartin/)
-* [@simplemodal](http://twitter.com/simplemodal/)
-
-
-Donate
-------
-[Donations](http://www.ericmmartin.com/donate/) are greatly appreciated.
 
 
 Building SimpleModal
